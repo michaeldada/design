@@ -1,0 +1,51 @@
+
+body {
+  font: 1.1em/1.5 sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wrap {
+  width: 85%
+  margin:auto;
+}
+
+.column{
+  padding:1.5em;
+  width: 40em;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+p {
+  margin-bottom: 1.5em;
+  float: left;
+}
+ul{
+  text-decoration: none;
+  list-style-type: none;
+}
+li {
+    float: left;
+    text-decoration: none;
+}
+
+a {
+
+    padding: 1em;
+    background-color: #dddddd;
+    text-decoration: none;
+    float:left;
+}
+img{
+  height:480px
+  width:600px
+
+}
+
+/* Media Queries */
+@media screen and () {
+
+}
